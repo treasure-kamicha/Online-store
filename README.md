@@ -21,7 +21,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ##SCREENSHOT
 
-!![Candy store screenshoot] (screenshoot%202026-07-07%20174845.png)
+![Candy store screenshot](screenshot%202026-07-07%20174845.png)
 
 
 
